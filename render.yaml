@@ -1,0 +1,10 @@
+# Render Blueprint: New > Blueprint > pick this repo. Deploys task-api on the free plan.
+services:
+  - type: web
+    name: task-api
+    runtime: node
+    rootDir: task-api
+    buildCommand: npm ci
+    startCommand: npm start
+    plan: free
+    healthCheckPath: /
