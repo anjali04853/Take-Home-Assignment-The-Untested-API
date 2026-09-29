@@ -6,10 +6,22 @@ node_modules/
 coverage/
 .nyc_output/
 
-# Environment
+# Environment & secrets (API keys, passwords, tokens, certificates)
 .env
-.env.local
-.env.*.local
+.env.*
+!.env.example
+.render_key
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+secrets/
+secrets.json
+credentials.json
+*.secret
+*.secrets
+.npmrc
 
 # OS
 .DS_Store
