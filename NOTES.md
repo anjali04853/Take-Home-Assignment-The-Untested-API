@@ -2,7 +2,7 @@
 
 - **Bug report:** [BUG_REPORT.md](./BUG_REPORT.md)
 - **Tests:** [`task-api/tests/`](./task-api/tests)
-- **Live API:** _see the link in the submission email_ (Render free tier: the first request after it has been idle can take ~30s while the instance wakes up)
+- **Live API:** https://task-api-69oo.onrender.com (Render free tier: the first request after it has been idle can take ~30s while the instance wakes up)
 
 ## How I worked
 

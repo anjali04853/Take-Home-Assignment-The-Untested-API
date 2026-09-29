@@ -1,5 +1,7 @@
 # Take-Home Assignment — The Untested API
 
+> **Live API:** https://task-api-69oo.onrender.com — try `GET /tasks/stats` or see the index at `/`.
+>
 > **Submission:** see **[NOTES.md](./NOTES.md)** (approach, coverage, feature design, open questions) and **[BUG_REPORT.md](./BUG_REPORT.md)** (11 bugs, 7 fixed + docs).
 
 A 2-day take-home assignment. You'll read unfamiliar code, write tests, track down bugs, and ship a small feature.
